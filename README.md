@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/Minafarah200/c-iti/tree/master/0002-add-two-numbers) |
 | [0009-palindrome-number](https://github.com/Minafarah200/c-iti/tree/master/0009-palindrome-number) |
 | [0070-climbing-stairs](https://github.com/Minafarah200/c-iti/tree/master/0070-climbing-stairs) |
 ## Dynamic Programming
@@ -16,4 +17,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/Minafarah200/c-iti/tree/master/0070-climbing-stairs) |
+## Linked List
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/Minafarah200/c-iti/tree/master/0002-add-two-numbers) |
+## Recursion
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/Minafarah200/c-iti/tree/master/0002-add-two-numbers) |
 <!---LeetCode Topics End-->
